@@ -33,3 +33,69 @@
         "map-viewer"
     ]
 }
+{
+    "name": "Etar",
+    "features": [
+        "Calendar",
+        "Material design",
+        "Lightweight",
+        "Privacy focused",
+        "Ad-free",
+        "GPS Location Tracking"
+    ],
+    "tags": [
+        "event-calendar",
+        "open-source-projects",
+        "calendar-events"
+    ]
+}
+{
+    "name": "Simple Calendar",
+    "features": [
+        "Calendar",
+        "Notifications",
+        "Support for WebDAV",
+        "Customizable",
+        "Built-in Calendar"
+    ],
+    "tags": [
+        "Events",
+        "reminder"
+    ]
+}
+{
+    "name": "Organic Maps",
+    "features": [
+        "Based on OpenStreetMap",
+        "Works Offline",
+        "GPS Navigation",
+        "No Tracking",
+        "Cycling",
+        "Bookmarks",
+        "Night mode/Dark Theme",
+        "Nearby Search",
+        "Offline search",
+        "User generated",
+        "Turn-by-turn Navigation",
+        "Privacy focused",
+        "Public transportation",
+        "Offline routing",
+        "Apps with Offline Map",
+        "Location-based",
+        "Hiking Maps",
+        "Driving directions",
+        "Route optimization",
+        "Route Planning"
+    ],
+    "tags": [
+        "biking-maps",
+        "hiking",
+        "Map",
+        "route-navigation",
+        "Mapping",
+        "maps-navigation",
+        "gps-with-voice-navigation",
+        "bike",
+        "walking-navigation"
+    ]
+}
