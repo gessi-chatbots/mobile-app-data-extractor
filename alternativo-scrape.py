@@ -9,6 +9,7 @@ urls = ['https://alternativeto.net/software/osmand/about/',
         'https://alternativeto.net/software/simple-calendar/about/',
         'https://alternativeto.net/software/organic-maps/about/']
 
+count = 0
 for url in urls:
     #initiate chrome driver with viewing options
     chrome_options = Options()
@@ -52,3 +53,17 @@ for url in urls:
         json.dump(obj, write_file, indent=4)
         write_file.write('\n')
     write_file.close()
+
+    obj = {
+        "id": count,
+        "name": name, 
+        "features": features,
+        "tags": tags,
+    }
+
+    with open("rasa_knowledge_base.json", "a") as write_file:
+        json.dump(obj, write_file, indent=4)
+        write_file.write('\n')
+    write_file.close()
+
+    count += 1
