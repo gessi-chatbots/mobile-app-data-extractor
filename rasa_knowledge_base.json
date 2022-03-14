@@ -23,9 +23,7 @@
                 "Text to Speech",
                 "Real-time traffic",
                 "Driving directions",
-                "Record Tracks"
-            ],
-            "tags": [
+                "Record Tracks",
                 "offline-navigation",
                 "Map",
                 "biking-maps",
@@ -45,9 +43,7 @@
                 "Lightweight",
                 "Privacy focused",
                 "Ad-free",
-                "GPS Location Tracking"
-            ],
-            "tags": [
+                "GPS Location Tracking",
                 "event-calendar",
                 "open-source-projects",
                 "calendar-events"
@@ -61,9 +57,7 @@
                 "Notifications",
                 "Support for WebDAV",
                 "Customizable",
-                "Built-in Calendar"
-            ],
-            "tags": [
+                "Built-in Calendar",
                 "Events",
                 "reminder"
             ]
@@ -91,9 +85,7 @@
                 "Hiking Maps",
                 "Driving directions",
                 "Route optimization",
-                "Route Planning"
-            ],
-            "tags": [
+                "Route Planning",
                 "biking-maps",
                 "hiking",
                 "Map",
