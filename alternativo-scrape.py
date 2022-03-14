@@ -10,8 +10,8 @@ urls = ['https://alternativeto.net/software/osmand/about/',
         'https://alternativeto.net/software/organic-maps/about/']
 
 apps = []
+apps_rasa = []
 count = 0
-write_file = open("knowledge_base.json", "w")
 for url in urls:
     #initiate chrome driver with viewing options
     chrome_options = Options()
@@ -51,9 +51,7 @@ for url in urls:
         "tags": tags,
     }
 
-    json.dump(obj, write_file, indent=4)
-    write_file.write('\n')
-    
+    apps.append(obj)
 
     obj = {
         "id": count,
@@ -61,16 +59,15 @@ for url in urls:
         "features": features + tags,
     }
 
-    apps.append(obj)
+    apps_rasa.append(obj)
     count += 1
 
-write_file.close()
+wf = open("knowledge_base.json", "w")
+obj = { "apps": apps }
+json.dump(obj, wf, indent=4)
+wf.close()
 
-obj = {
-    "apps": apps
-}
-
-with open("rasa_knowledge_base.json", "w") as wf:
-    json.dump(obj, wf, indent=4)
-    wf.write('\n')
+wf = open("rasa_knowledge_base.json", "w")
+obj = { "apps": apps_rasa }
+json.dump(obj, wf, indent=4)
 wf.close()
