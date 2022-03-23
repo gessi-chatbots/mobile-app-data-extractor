@@ -5,7 +5,7 @@ from scrapy import Request
 class AlternativeSpider(scrapy.Spider):
     name = 'alternative'
     start_urls = [
-        "https://www.alternativeto.net/software/osmand/about/"
+        "http://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Falternativeto.net%2Fsoftware%2Fosmand%2Fabout%2F&rlz=1C1MSIM_enES774ES774&oq=cache%3Ahttps%3A%2F%2Falternativeto.net%2Fsoftware%2Fosmand%2Fabout%2F&aqs=chrome..69i57j69i58.1333j0j4&sourceid=chrome&ie=UTF-8"
     ]
     handle_httpstatus_list= [403]
 
@@ -30,11 +30,14 @@ class AlternativeSpider(scrapy.Spider):
             yield Request(url, headers=headers, method='GET', cookies=cookies)
 
     def parse(self, response):
-        with open("log.txt",'w') as f:
+        with open("log.txt", 'w', encoding='utf-8') as f:
             print(response.request.headers, file=f)
             print(response.headers, file=f)
-        for features in response.css('div.badges link-color'):
+            print(response.text, file=f)
+            print(response.encoding, file=f)
+            # print(response.body, file=f)
+        for features in response.css('div').getall():
             yield {
-                "text": features.xpath("li/a()").get()
+                'text': features
             }
 

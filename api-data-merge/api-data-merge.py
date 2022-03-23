@@ -1,7 +1,9 @@
 import json
 import os
+import sys
 
 from google_play_scraper import app
+from google_play_scraper.exceptions import NotFoundError
 
 from serpapi import GoogleSearch
 
@@ -9,14 +11,18 @@ import utils
 
 import argparse
 
+
 parser = argparse.ArgumentParser()
 
 parser.add_argument('-a', dest='package_name', type=str, help="Package name of the app to be searched for")
-parser.add_argument('-f', dest='file', type=str, help="Name of the file to save the results")
+parser.add_argument('-f', dest='file', type=str, help="Name of the file to save the results to")
 parser.add_argument('-k', dest='api_key', type=str, help="API key for SERP API")
 parser.add_argument('-c', dest='keys', type=str, help="File where the keys are located")
 
 args = parser.parse_args()
+if len(sys.argv) != 9:
+    parser.print_help()
+    sys.exit()
 api_key = args.api_key
 package = args.package_name
 destination_file = args.file
@@ -28,14 +34,20 @@ params = {
     "api_key": api_key
 }
 
-
 search = GoogleSearch(params)
 results = search.get_dict()
+if "error" in results.keys():
+    print("Error. Either the API key is invalid or the package could not be found.")
+    sys.exit()
 # flatten dict
 flat_dict = utils.flatten_dict(results)
 
 # get gps results
-gps_results = app(package)
+gps_results = {}
+try:
+    gps_results = app(package)
+except NotFoundError:
+    print("Package name not found")
 
 key_file = open(os.getcwd() + "\\" + args.keys, 'r')
 keys = []
