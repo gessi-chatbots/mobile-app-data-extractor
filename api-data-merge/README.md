@@ -13,4 +13,4 @@ GoogleSearch:
 
 For executing the script: 
 
-    python .\api-data-merge.py -a <package-name> -f <target-file.json> -k api -c <file with keys>
+    python .\api-data-merge.py -a <package-name> -f <target-file.json> -k <serp-api-key> -c <file with keys>
