@@ -11,7 +11,7 @@ developer	product_info.authors
 developerWebsite	additional_information.developer
 privacyPolicy	additional_information.developer
 contentRating	product_info.content_rating
-version	additional_info.current_version
+version additional_info.current_version
 recentChanges	what_s_new.snippet
 comments	reviews
 similarApps	similar_results.items

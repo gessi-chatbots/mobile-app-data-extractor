@@ -1,1 +1,707 @@
-{"search_metadata": {"id": "6231bb155119a6f3abe3dccd", "status": "Success", "json_endpoint": "https://serpapi.com/searches/5e372fa8fb571136/6231bb155119a6f3abe3dccd.json", "created_at": "2022-03-16 10:25:25 UTC", "processed_at": "2022-03-16 10:25:25 UTC", "google_play_product_url": "https://play.google.com/store/apps/details?id=net.osmand&hl=en&gl=us", "raw_html_file": "https://serpapi.com/searches/5e372fa8fb571136/6231bb155119a6f3abe3dccd.html", "total_time_taken": 0.8}, "search_parameters": {"engine": "google_play_product", "product_id": "net.osmand", "hl": "en", "gl": "us", "store": "apps"}, "product_info": {"title": "OsmAnd \u2014 Maps & GPS Offline", "authors": [{"name": "OsmAnd", "link": "https://play.google.com/store/apps/dev?id=8483587772816822023"}], "categories": [{"name": "Travel & Local", "link": "https://play.google.com/store/apps/category/TRAVEL_AND_LOCAL", "category_id": "TRAVEL_AND_LOCAL", "serpapi_link": "https://serpapi.com/search.json?apps_category=TRAVEL_AND_LOCAL&engine=google_play&gl=us&hl=en&store=apps"}], "content_rating": {"text": "Everyone", "thumbnail": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i=w56-h14-rw"}, "rating": 4.5, "reviews": 129539, "extansions": ["Offers in-app purchases"], "thumbnail": "https://play-lh.googleusercontent.com/FSmpbc9ugImmneiJac8ffLvHrkgZ19xZJCjJVgrlTMpFRUn1XB0dkpP90iVePSvC9vc=s180-rw", "offers": [{"text": "Install", "link": "https://play.google.com/store/apps/details?id=net.osmand&rdid=net.osmand&feature=md&offerId"}], "description": "OsmAnd is an offline world map application based on OpenStreetMap (OSM), which allows you to navigate taking into account the preferred roads and vehicle dimensions. Plan routes based on inclines and record GPX tracks without an internet connection.OsmAnd is an open source app. We do not collect user data and you decide what data the app will have access to.Main features:Map view\u2022 Choice of places to be displayed on the map: attractions, food, health and more;\u2022 Search for places by address, name, coordinates, or category;\u2022 Map styles for the convenience of different activities: touring view, nautical map, winter and ski, topographic, desert, off-road, and others;\u2022 Shading relief and plug-in contour lines;\u2022 Ability to overlay different sources of maps on top of each other;GPS Navigation\u2022 Plotting a route to a place without an Internet connection;\u2022 Customizable navigation profiles for different vehicles: cars, motorcycles, bicycles, 4x4, pedestrians, boats, public transport, and more;\u2022 Change the constructed route, taking into account the exclusion of certain roads or road surfaces;\u2022 Customizable information widgets about the route: distance, speed, remaining travel time, distance to turn, and more;Route Planning and Recording\u2022 Plotting a route point by point using one or multiple navigation profiles;\u2022 Route recording using GPX tracks;\u2022 Manage GPX tracks: displaying your own or imported GPX tracks on the map, navigating through them;\u2022 Visual data about the route - descents/ascents, distances;\u2022 Ability to share GPX track in OpenStreetMap;Creation of points with different functionality\u2022 Favourites;\u2022 Markers;\u2022 Audio/video notes;OpenStreetMap\u2022 Making edits to OSM;\u2022 Updating maps with a frequency of up to one hour;Additional features\u2022 Android Auto support;\u2022 Compass and radius ruler;\u2022 Mapillary interface;\u2022 Night theme;\u2022 Wikipedia;\u2022 Large community of users around the world, documentation, and support;Paid features:Maps+ (in-app or subscription)\u2022 Unlimited map downloads;\u2022 Topo data (Contour lines and Terrain);\u2022 Nautical depths;\u2022 Offline Wikipedia;\u2022 Offline Wikivoyage - Travel guides;OsmAnd Pro (subscription)\u2022 All Maps+ features;\u2022 OsmAnd Cloud (backup and restore);\u2022 Pro features;\u2022 Hourly map updates.Read moreCollapse"}, "media": {"video": {"thumbnail": "https://play-lh.googleusercontent.com/cKZ7AUr4p9Rim4ZbnW5KEnAPcuockaCEP-eTP9N2I4mqbmdNMXNjxvg_yD9a3y5kIw=w720-h310-rw", "link": "https://www.youtube.com/embed/vCZBggmFkDA?ps=play&vq=large&rel=0&autohide=1&showinfo=0"}, "images": ["https://play-lh.googleusercontent.com/Ic03sd7gETSbmJpLxzbaJ4pJW5f6xNrlSkflPUUEcY1rSX8zCLCReCe_PeksP0qytQ=w720-h310-rw", "https://play-lh.googleusercontent.com/NsXE3f7WK4fNJ7zs22CiYm7aNt0T3Coxmfy7E8qP1ZTYO3Exgjm8e1FG5g3NdxxO6nE=w720-h310-rw", "https://play-lh.googleusercontent.com/0xBhvntU4MTwvLiYhxRzmor8zntgspyEI9XwGa7wzEv5XNZZwK2cwuMuNYXHfYQXz2E=w720-h310-rw", "https://play-lh.googleusercontent.com/NZqAWkPEbzeOZ-LsIGa9wTucwvF8leisOenCnFluexZILmhiD-G6RYwIRgiiJE2xrg=w720-h310-rw", "https://play-lh.googleusercontent.com/U7plB4eiAX1W0AHHKFb4PVSmECHvzVossWVHD9VQ2v51BEfMUId-x61gf4KUuj8ylQ=w720-h310-rw", "https://play-lh.googleusercontent.com/AGoxRX5vjKmPgZ_zUmoy5k1pNeS-QMVIv2REthPZCxmmUG1ppOM6F1yzX7QsuTZ7xw=w720-h310-rw", "https://play-lh.googleusercontent.com/9crIb0CjFeLZt1R7Bvu4fhz3PrbFklEf5NTHSxXJqVMk3wSFgYPBKOK6HPysYF-r_a4j=w720-h310-rw", "https://play-lh.googleusercontent.com/E8LMpA9MScxrQ2ROXRqv8aO3T4EtshK2oSL23r7vM2PM_uyxl9SYUoHC0DYl-EYOJBY=w720-h310-rw"]}, "reviews": [{"title": "badmexican333", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJzurBCyiJSxEa5pFWoqPUMDHT0BuXGWyLFgRwyi=mo", "rating": 4.0, "snippet": "The best offline map/gps you can hope to get; only complaint is that by default the gps 'warns' you of pedestrian and railroad crossings every time you come upon one(still can't find the setting to turn off railroad crossing warnings). Other than that, does a good job finding routes. Let's you backup/restore config though, so it's not a recurring annoyance changing that.", "likes": 1, "date": "March 11, 2022"}, {"title": "Josh Troche", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhF3P-3Kno6dYjmphKwGANNvXg5dTIV7XEYBohElyk", "rating": 5.0, "snippet": "it's great to have the maps downloaded on my phone so that way when I'm in areas that don't have cell phone signal, I still have GPS. On top of that I ride a dual sport motorcycle and this lets me prioritize gravel roads. So far I've Loved this app", "likes": 8, "date": "February 25, 2022"}, {"title": "Daniel", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiyW5cOgbWu6VsYV8pN_ZBoLHAWg01GJW7nZKxW-w", "rating": 5.0, "snippet": "Excellent app for free. Highly considering getting the pro version. Has offline map and doesn't take a lot of space. Includes hiking trails too. Navigation when offline is when it really beats Google maps.", "likes": 2, "date": "March 12, 2022"}, {"title": "Ell, Ess. Jaevaric", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiPPkrIpo4cjNmZ81Xk4StA6nqqN59UUZZ8W4jy8g", "rating": 1.0, "snippet": "Unusable for navigation when compared to Google maps. You cannot even enter addresses in the common method used in US (street #, street name, city, state, zip). Many times there is no address available at all, you'll sometimes only get a list of cross streets along the road you need... you basically need to know where you're going, mark it on osmand then navigate to the mark. Guess app useful if you think in gps cords or can find what u need to mark on a map", "likes": 14, "date": "January 30, 2022", "response": {"title": "OsmAnd", "snippet": "Hello! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. If you have any other questions please contact us at support@osmand.net", "date": "January 31, 2022"}}, {"title": "Joe S", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiKKWKidw0mhBjZ-kdTnFiFUjkK6wYFsxmIRkqzRA", "rating": 3.0, "snippet": "Great app for navigating offline for day or multi-day hikes on existing trails, but complex menu system and ineffective search makes it less useful for typical road navigation relative to other options like Google Maps or Waze. I use Garmin BaseCamp to create routes using the free OSM Topo maps, then export to .gpx and load to OsmAnd for offline navigation on trails in the Cascades. With 7 free map downloads, they provide plenty of time to experience the features before upgrading to premium to access more detailed topo content.", "likes": 14, "date": "January 22, 2022", "response": {"title": "OsmAnd", "snippet": "Hello! Thank you for the feedback. If you have any questions please contact us at support@osmand.net", "date": "January 24, 2022"}}, {"title": "Kevin Bates", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GglPBbbhvLWWEeMpmqDZiX6JiUNnSr69eVaLF1-sdo", "rating": 3.0, "snippet": "Map is open source and has a ton of options, but it doesn't seem to recognize literally any addresses, making it useless for residential driving. Most businesses I've tried to go to also aren't in the map. Seems fine for hiking or interstate driving, but unfortunately not viable for me to replace google maps.", "likes": 5, "date": "January 26, 2022", "response": {"title": "OsmAnd", "snippet": "Hello, Kevin! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. If you have any other questions please contact us at support@osmand.net", "date": "January 27, 2022"}}, {"title": "Tony D.", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gh1vBgIJCNtcgcZxctHzNtfQdN1JyNvmKc4VZ0aow", "rating": 2.0, "snippet": "I really want to like this, but the absolute inability to bring up any building number address renders it useless for driving.", "likes": 1, "date": "February 02, 2022", "response": {"title": "OsmAnd", "snippet": "Hello! Thank you for the feedback. Could you please provide the coordinates of the place? We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers.", "date": "February 02, 2022"}}, {"title": "BlueDream", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJz6cJe2vMzqWo9Ga4d1zCw5rMSeoSBk1Xr3SmYF=mo", "rating": 3.0, "snippet": "The app is not easy to use or simple like Google maps unfortunately. They make it very difficult to use \ud83d\ude15", "likes": 1, "date": "February 08, 2022", "response": {"title": "OsmAnd", "snippet": "Hi, we are always looking to improve the experience for our users, and really appreciate the feedback. If there is anything specific we can look into, please contact us at support@osmand.net.", "date": "February 08, 2022"}}, {"title": "Nick", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJwiZYwc5by4psVqTaZLZgFcRkTh3XrCIuzk3hz4=mo", "rating": 2.0, "snippet": "I want to like this app but I could not even find my own address or the address of a friend when I searched for it as a preliminary test. It basically requires you to know the closest intersecting road: but what if you dont know it ? When I looked up my address a little further (took me a while to even find it in the list of possible results), it was listed in the wrong county. So nice features and it does have a lot of potential, if only the maps would be accurate.. that's a no go for me.", "likes": 33, "date": "October 26, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Nick! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. You can contact us at support@osmand.net and provide a search phrase example so we can test it.", "date": "October 27, 2021"}}, {"title": "Joseph Dora", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJwNl0jjCjz5LF-hN7YKXUA_H79AMnBCPJ0i5jET=mo", "rating": 5.0, "snippet": "Good app, but would be great if you could draw radius circles, squares and irregular areas and denote these areas on the map. The ability to import address's and have them Geo located on the map would also make it an outstanding mapping program. I still use Delorme, but the last version was 2015. If offered these features but was ended by Delorme as they moved and rebranded their technology to market it as a GIS Visualization tool putting it out of reach price wise for non-commercial users.", "likes": 5, "date": "December 04, 2021"}, {"title": "Samuel Santaella", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gj74o0aMqctJ6OUxfXcyJUC0atS0aHoRO271WeqEjM", "rating": 3.0, "snippet": "I'm disappointed in OsmAnd coming from iPhone 6S. I have a newer Android with much better CPU, newer GPU, way more RAM, yet panning around the map is not smooth. I can't even rotate the map precisely like I can on iPhone. On both versions this isn't my app of choice for looking up addresses. However, offline maps and offline navigation do work excellently especially for cycling, so this is still a keeper for me. Also fun to explore around in sometimes.", "likes": 10, "date": "December 07, 2021"}, {"title": "Doug Grinbergs", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJykZNo5FeWBE2o6E9CtLSJIOlMURIt2Qesc1ZQ=mo", "rating": 5.0, "snippet": "Crazy amount of features, functionality based on crowdsourced OpenStreetMap, great for contributing map info. Mapillary (crowdsourced street-level images) integration very cool, much appreciated. Very impressed by thorough, professional version release notes (which even giant developers don't bother to do anymore).", "likes": 22, "date": "December 11, 2021"}, {"title": "Miakoda", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Ghh78RJ4ydB4_WnLHtJJ3NhWhNuD7EsPGmQdtQVZhg", "rating": 1.0, "snippet": "It's a Navigation app that can't cope with a street address. No matter what address I give it, it gives me all sorts of results based on words in the address. No amount of tapping makes it accept an address and navigate there.", "likes": 10, "date": "October 20, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Miakoda! Thank you for the feedback. Could you please provide search address examples so we could test them? You can contact us at support@osmand.net.", "date": "October 21, 2021"}}, {"title": "Barry Cheeney", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJxm1CcnZi18e-ErRGtAvlMB6_9AZiT-EB39Dbsu=mo", "rating": 2.0, "snippet": "The map works fine if your just trying to find a city, or *maybe* a prominent land mark. But this map is utterly useless for finding anywhere on an actual street. TL:DR Passable for road trips; Useless at all other times.", "likes": 7, "date": "November 25, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Barry! Thank you for the feedback. Please contact us at support@osmand.net and provide address examples so we can test them.", "date": "November 29, 2021"}}, {"title": "Brandon Fehrenkamp", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gi01WmEqJuli3tgnEKzDpTBBrn2R-kM7ZO0872F", "rating": 2.0, "snippet": "Cool for offline maps, awful for searching for addresses. I can search for my home street verbatim and it won't find it. I have to search using some of the words of my home street to find it. That's bad.", "likes": 8, "date": "October 02, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Brandon! Thank you for the feedback. Could you please send to support@osmand.net search address example so we can test it?", "date": "October 04, 2021"}}, {"title": "Thalia Brisson", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhMf8nG4vF3xU9-Id_MOn8_0ea5LTJWlkYJgwOmpsw", "rating": 5.0, "snippet": "Better than google maps - osm data is best and high contrast vector maps rock - I love the way they do map downloads by region and navigation is good (gets better with better osm data). If the nav messes up you can fix the map yourself :)", "likes": 20, "date": "September 26, 2021"}, {"title": "Kevin D.", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJyAa_MjsL8CVpGNZUiuvkczYzdC9wJRkhIfm20=mo", "rating": 3.0, "snippet": "Eep. A OnePlus OS update nuked all my offline maps. However they were never deleted so now OSMAnd uses ~5 GB of storage instead of 2.5. Can't delete manually so.... uninstall? My annual subscription is looking less valuable with these types of bugs.", "likes": 2, "date": "October 11, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Kevin! Thank you for the feedback. You can try to select \"Data storage folder\" in OsmAnd settings, the app may lose access or path to it after the update. If it doesn't help, please contact us at support@osmand.net", "date": "October 11, 2021"}}, {"title": "Fred Hoette", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gg4cmX6DFGJkkpXL48fG91WjqwpBKWPeUXI-ASf", "rating": 5.0, "snippet": "I have used this app for inland European waterway navigation. It is brilliant. Accurate, lots of details about the waterway as well as location of marinas and other landside amenities. Highly recommended.", "likes": 6, "date": "October 05, 2021"}, {"title": "Garth Freeman", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJyshdZjuIjg1Gf3pC5mtziHbXLpbSlYPbHlCFWo=mo", "rating": 1.0, "snippet": "Useless. I honestly don't understand what Good a navigation app could be that can't be used to navigate to an address. Seriously, what is the point?", "likes": 2, "date": "November 21, 2021", "response": {"title": "OsmAnd", "snippet": "Hello! Thank you for the feedback. You can contact us at support@osmand.net and provide a search address example, so we can test it.", "date": "November 22, 2021"}}, {"title": "Jason Gray", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiP5MxnA9r8FjEPam1O5D7dNAm6ip1YF27jLg34", "rating": 1.0, "snippet": "Basic function of searching addresses doesn't work. Tried my home address offline and online, nada.", "likes": 4, "date": "October 21, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Jason! Thank you for the feedback. Could you please provide a search phrase example? You can contact us at support@osmand.net.", "date": "October 22, 2021"}}, {"title": "kurt guseman", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GjfCbQfWnHYTNzAQMnj2feaI4uBCr0gv5Lbsr9c", "rating": 1.0, "snippet": "No good maps. does not orient maps to direction your moving, very poor street identifing unusable to navigate", "likes": 2, "date": "October 16, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Kurt! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. You can change \"Map orientation\" in Menu \u2013 Settings \u2013 Profile \u2013 General settings. If you have any questions contact us at support@osmand.net", "date": "October 18, 2021"}}, {"title": "Bruce Ruderman", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJyehWLxzILmYs1soHvcnoVs8_w08G4mp2mxaU5D=mo", "rating": 2.0, "snippet": "Uninstaller this app right away because it can't find its way around town. Another disappointing so called offline map app. Unable to find a working no data offline map app for an android phone. I haven't tried one of those bs pay monthly subscription GPS apps because I am not that stupid.", "likes": 0, "date": "December 25, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Bruce! Thank you for the feedback. You can contact us at support@osmand.net with coordinates of the start and destination so we can test the route. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers.", "date": "December 28, 2021"}}, {"title": "Bradley Farless", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhhBjtSeM9HRxlHotKRppwTcJzDDw4mgV_gkTTFTTo", "rating": 1.0, "snippet": "My previous review was deleted so I'm putting it back. This app is presented as a navigation tool. However, it doesn't work with Android Auto, so it doesn't fill that function effectively for how most people use navigation tools. I believe that Android Auto integration should be basic functionality for a navigation app. This doesn't have it, so for me, it's 1 Star because it's not useful.", "likes": 1, "date": "September 17, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Bradley! Thank you for the feedback. We are working on adding Android Auto support, we will try to introduce it in the next app update. If you have any other questions please contact us at support@osmand.net", "date": "September 17, 2021"}}, {"title": "Anthony Lima", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GjPDcMNE-q_KoCa1TF138j-jnPxAyOBnYv65TPoRwA", "rating": 3.0, "snippet": "Mostly great, the search function just takes some getting used to. Has all of the necessary features of google maps but way less lag. The main downside is the navigation which just isn't reliable. Can't tell ya how many times it's told me to turn right off the highway when there was no exit", "likes": 0, "date": "November 25, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Anthony! Thank you for the feedback. Please contact us at support@osmand.net and provide coordinates of the start and destination points of the route so we could test it.", "date": "November 29, 2021"}}, {"title": "suhridkhan", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Ghq4-s-Owj1ZqonJVm-C3JcNppzKJTQUqstQb6Bv8k", "rating": 5.0, "snippet": "Amazing map platform. Those of you who are fussing about not finding your address, please just understand that this is based on open source data. Rather than complaining and being part of the problem, you can choose to be part of the solution, and contribute to the openstreetmap database.", "likes": 2, "date": "November 20, 2021"}, {"title": "joseph vaughn", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GjVnNwL3nntg3O1JfYoii2GG7IMtL4T1BwFHfI8IA", "rating": 1.0, "snippet": "Wow I don't know how this was ever supposed to work it can't find addresses just gives generic towns. You can go in and tell it where something is and give it an address that way but it's definitely not ready to use if it's community built.", "likes": 0, "date": "November 07, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Joseph! Thank you for the feedback. Please send to support@osmand.net search address example, so we can test it.", "date": "November 08, 2021"}}, {"title": "Person of Interest", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJzj7y-d6q61UE16r2MQuzylMfQOlFf_6dl-Ux2L=mo", "rating": 5.0, "snippet": "Good grief to all of you complaining about not being able to find specific addresses the solution is simple. Use coordinates instead and any gps software using openstreet maps works perfectly. Plenty of apps will give you the coordinates of addresses. Enter that instead of an address and its gold.", "likes": 1, "date": "November 26, 2021"}, {"title": "Deebo", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GgqwutLSJlScXXiKNVe1yw4Udv9EMc08Ubux8GyhQ", "rating": 4.0, "snippet": "Could use a bit of an update, the app takes a lot of battery especially when on the road. The UI could maybe use a rework too. But overall, the mapping works well for me though, shows almost all of the street names, and the location tracking is pretty good! This definitely is a great alternative to Google Maps though, especially for offline use.", "likes": 10, "date": "August 26, 2019"}, {"title": "D N", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJwkIjEfEr1v3fc0HpA6mj3TZ5PFuhGPbdzzw9k=mo", "rating": 1.0, "snippet": "Worst map ever. Put in an address to test it and it tried to route me the opposite direction! As i continued to drive in the right direction (east instead of west like it was trying to take me) it kept trying to route me to the next exit to turn around. If i didn't actually know this address I would have gone the wrong way into heavier traffic conditions. Can't trust it.", "likes": 1, "date": "November 24, 2019", "response": {"title": "OsmAnd", "snippet": "Hello! Please send us the coordinates of the starting and ending points of your route, so we could check that, at support@osmand.net.", "date": "December 04, 2019"}}, {"title": "Duncan Boyd", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gjhb15UYvM4l2i7EAqH0uQv7ylDPLCDBYG-uRFEedI", "rating": 1.0, "snippet": "You are limited to download 7 maps (in my case states) which I didn't initially realise but is fine. While learning how to use the app I downloaded 7 states that I had taken a motorcycle trip through and it worked great. Then I deleted the states thinking that I could just replace those with new states. I was wrong. Not only no new states but, I can't get the old ones either! The app is now completely useless unless you want to look at a blank outline of the continent! Total waste of time!", "likes": 14, "date": "January 27, 2020", "response": {"title": "OsmAnd", "snippet": "Hello, Duncan! Thank you for the feedback. The free version of OsmAnd has a limit to download/update 7 maps, not for slots. If you need more maps or every week updates, you can get OsmAnd Unlimited in-app purchase that unlocks download limit, or get OsmAnd Live subscription to unlock all paid features + every hour map updates.", "date": "January 27, 2020"}}, {"title": "Adam Brown", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gh-w09yw1bh1o6GXPfqDN05t92xz6kpoYQUmvjrMrA", "rating": 2.0, "snippet": "It's great when you're driving on a road and OSMAnd doesn't realiize it exists. Maps that are years out of date? Awesome.", "likes": 1, "date": "September 25, 2021", "response": {"title": "OsmAnd", "snippet": "Hello, Adam! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. If you have any other questions please contact us at support@osmand.net", "date": "September 27, 2021"}}, {"title": "Kyle Hooper", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiF_V64r0bwNpp0KKXmEslD2FePeyCygIv83Q5gWg", "rating": 3.0, "snippet": "\"Looks\" good, but...the regional maps are not as up to date as you may think. I am ranked 5th in the USA in terms of map editing for Open Street Maps and they are currently over 2 months old for my region in the USA. Also, I am disappointed I am only afforded a certain amount of map downloads before I need to purchase my own work I gave away for free. Kind of dirty salesmanship if you ask me.", "likes": 34, "date": "October 07, 2018"}, {"title": "Salvatore Mangiafico", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GgObBr5Xz7HnZGk99Vp2aL2BCAxHUWhEivEWRWPpA", "rating": 5.0, "snippet": "The existence of Open Street Map is wonderful, and this app is a very useful interface for OSM. I've been using it for some years. I like to use it to track hikes for milage and route, and to see what points of interest (POI) are around, and I've used to navigate while driving when I didn't have mobile signal (e.g. in central PA and in Canada).... There are many options, which can be difficult to navigate at first, but you'll come to appreciate all the options.", "likes": 22, "date": "March 15, 2020"}, {"title": "David Swanson", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhCIgpja01WUc3G4WxvtmajsDOakvtVbaz-L7Xw", "rating": 1.0, "snippet": "I really wanna give this app 5 stars. I purchased a year subscription. I used it for a year. 1. Biggest reason, the algorithm that chooses directions is awful. I come out of my house to got to the hospital to get my allergy shot. It says turn right which the hospitalbis 8 miles away. I never turn right. I turn left it recalculates and now it's 2.4 miles. In a city omg it takes the worst ways to get somewhere. 2. The gui. It's so messy. And I love all the options but there so confusing...........", "likes": 1, "date": "October 02, 2020", "response": {"title": "OsmAnd", "snippet": "Hello, David! Thank you for the feedback. Part of the issues with directions is because of issues with data. Could you please provide coordinates of the start and destination points of the route so we could test it? You can contact us at support@osmand.net.", "date": "October 13, 2020"}}, {"title": "Gene Whitehead", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhSj5RzW6oyOKAl9FjJRFRF_3NQFps5akEyqCqUoQ", "rating": 3.0, "snippet": "It's quite a navigation app, I'll give it that much but I can't give it more than 3 stars unfortunately, no matter how much I'd like to. First, the search sucks. Don't count on being able to look up an address even if the place you're going to has been there for a few hundred years. Second, the TTS sounds horrible. I understand that's Google TTS but given that's the best option for this app, it stinks. Third, this makes my phone blazing hot. Finally, it doesn't work on Android Auto without yet another add on and a rooted device. I really want to like this app but the more I use it the more I go back to the one map I'm trying to get away from!", "likes": 0, "date": "September 10, 2019", "response": {"title": "OsmAnd", "snippet": "Hello. Please send us the address at support@osmand.net, so we could check if this is an OsmAnd issue or this data is simply absent in OpenStreetMap resource. Also, kindly note, that you can use different TTS engine compatible with your language and choose between TTS and recorded voice guidance files.", "date": "September 12, 2019"}}, {"title": "Jessie Fairchild", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gh6cokyYseVMi2z5BD2V-eCECQ--oXCx6bM6CSeKw", "rating": 5.0, "snippet": "An amazing navigational app and location search tool! I love that I can see opening and closing times for places that have them updated on OSM. The interface is a bit daunting and takes a bit of practice/research to understand, but the online documentation for OSMAnd is wonderful as well, and after that learning curve it's an incredibly powerful tool. I use it any time I travel, and also to double check any updates I make to OSM!", "likes": 7, "date": "February 27, 2020"}, {"title": "Mike Maresca", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhtEQVm1kxVlYO5Z6e7gLSeypS2sdG5JvAhV1Y1cw", "rating": 1.0, "snippet": "I was looking to turn my old phone into an offline GPS nav system. This app looked like it would be great for that. I download the map for my state and tried to type in a few addresses to which I wanted to navigate. It could only seem to find landmarks or named buildings, but not a simple street address. A navigation system that doesn't have that feature is worthless to me. I removed the app.", "likes": 3, "date": "May 13, 2019", "response": {"title": "OsmAnd", "snippet": "Hello. Please, make sure to update the World overview map. Also, you can try to start the search with a city. To do this, please go to OsmAnd menu - Search - Address - Select the city first. After typing the city, choose it from the list and continue to type the street name and number. If the issue persists please contact us at support@osmand.net.", "date": "May 14, 2019"}}, {"title": "Dan Magico", "avatar": "https://play-lh.googleusercontent.com/a/AATXAJwcCwgCGgG6ts2Roe9nRIew-_pLov6XKEWrPibc=mo", "rating": 5.0, "snippet": "Hands down the best navigation app, *unless* you want traffic data (Google Maps is still king for that). Offline navigation, hiking & biking, skiing & snowboarding, recording tracks ... and very, very configurable. For those complaining that the UI is too complex, well, there are a ton of features squeezed in this app, so, yes. I'd rather have a complex, but fully featured app rather than a easy, but dumbed-down app, as seems to be fashionable these days.", "likes": 0, "date": "April 07, 2021"}, {"title": "Chad Sagers", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GgFYi0cqqQ_29kcdEIiGvKPYHo7FMEQCDOAJz4yhg", "rating": 1.0, "snippet": "I read that with this app you could customize what info you wanted shown on your map. I even read it would show road surface quality which would be awesome out here in the country. There was no setup tutorial and it wasn't user friendly at all. Maybe the review I read was way wrong, but even still I couldn't get directions, it said my starting point was too far from the nearest road. I live litterally 100 feet from a county road. The map only showed state highways and interstates. Useless.", "likes": 0, "date": "January 31, 2020", "response": {"title": "OsmAnd", "snippet": "Hello Chad. To display the road surface, please open the Configure map menu - Details and select the required information. If you need any help, just open the Help section in the app menu, our website: https://osmand.net/features or contact us at support@osmand.net.", "date": "February 03, 2020"}}, {"title": "Dustin McNeal", "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gje6-7qnx-l7ECtZs06-E9SX3M2jxMEtp0J3a3uGQ", "rating": 1.0, "snippet": "I would say it's nice for manually browsing the map but I could get a paper map for the same thing. The app won't let you type in exact addresses only roads. Using the search function by city and road requires you to click on the button many times before it works. I think this app is a cool idea but is no better than a paper map at this point.", "likes": 1, "date": "February 20, 2020"}], "more_by": {"title": "More by OsmAnd", "link": "https://play.google.com/store/apps/dev?id=8483587772816822023", "thumbnail": "https://play-lh.googleusercontent.com/SO9llLbXK2HkQ8xHwysdRInbOx4AfFRyBC5PAXKUszCh8o-oQ8LWgW_vEWbTAcwUmW0=w500-h280-rw", "items": [{"title": "Nautical Charts \u2014 OsmAnd", "link": "https://play.google.com/store/apps/details?id=net.osmand.nauticalPlugin", "product_id": "net.osmand.nauticalPlugin", "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=net.osmand.nauticalPlugin&store=apps", "description": "OsmAnd Nautical Charts is a plugin that provides Nautical Maps", "rating": 3.7, "extansion": {"name": "OsmAnd", "link": "https://play.google.com/store/apps/dev?id=8483587772816822023"}, "thumbnail": "https://play-lh.googleusercontent.com/-TO8t53lo_7rgEKsl8ewQSBStKLAA2d44JRkgLTTRInGyZ_ljFtjTwyRHshtcAZ9wkY=s128-rw"}, {"title": "OsmAnd Online GPS Tracker", "link": "https://play.google.com/store/apps/details?id=net.osmand.telegram", "product_id": "net.osmand.telegram", "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=net.osmand.telegram&store=apps", "description": "Share your location with contacts and groups from Telegram.", "rating": 3.7, "extansion": {"name": "OsmAnd", "link": "https://play.google.com/store/apps/dev?id=8483587772816822023"}, "thumbnail": "https://play-lh.googleusercontent.com/jizATOxi4ir4MNQCWB9lxyQAsSI6KTdcTmpZ8ODU0HGt5jOeXqDP-MBYg4Ctl3mHaTQ=s128-rw"}]}, "what_s_new": {"snippet": "\u2022 Added initial support for Android Auto\u2022 User interface update for UTM coordinate search\u2022 GPS Filter for GPX Tracks\u2022 Elevation Widget (Pro)\u2022 Favorites: added ability to view recently used icons\u2022 Route planning: will use the selected profile after launch\u2022 Fixed Mapillary layer, the plugin is now disabled by default\u2022 Added screen to manage all history in the app\u2022 Map orientation is not reset after restarting the app\u2022 Improved SRTM height marker rendering\u2022 Fixed Arabic map captions"}, "additional_information": {"updated": [{"snippet": "December 15, 2021"}], "size": [{"snippet": "119M"}], "installs": [{"snippet": "5,000,000+"}], "current_version": [{"snippet": "4.1.11"}], "requires_android": [{"snippet": "6.0 and up"}], "content_rating": [{"snippet": "EveryoneLearn more"}, {"snippet": "Learn more", "link": "https://support.google.com/googleplay?p=appgame_ratings"}], "interactive_elements": [{"snippet": "In-App Purchases"}], "in_app_products": [{"snippet": "$1.63 - $29.99 per item"}], "permissions": [{"snippet": "View details"}], "report": [{"snippet": "Flag as inappropriate", "link": "https://support.google.com/googleplay/?p=report_content"}], "offered_by": [{"snippet": "OsmAnd"}], "developer": [{"snippet": "Visit website", "link": "https://osmand.net"}, {"snippet": "support@osmand.net", "link": "https://play.google.commailto:support@osmand.net"}, {"snippet": "Privacy Policy", "link": "http://osmand.net/help-online?id=privacy-policy"}, {"snippet": "Visit websitesupport@osmand.netPrivacy PolicyNetherlands, Amstelveen Logger 41, 1186 RM"}]}, "similar_results": [{"title": "Similar", "see_more_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoYCBEqAggIMhAKCm5ldC5vc21hbmQQARgD:S:ANO1ljJkYrA&gsr=ChuiChgIESoCCAgyEAoKbmV0Lm9zbWFuZBABGAM%3D:S:ANO1ljL9TFU", "see_more_token": "ChuiChgIESoCCAgyEAoKbmV0Lm9zbWFuZBABGAM%3D:S:ANO1ljL9TFU", "serpapi_link": "https://serpapi.com/search.json?engine=google_play&gl=us&hl=en&see_more_token=ChuiChgIESoCCAgyEAoKbmV0Lm9zbWFuZBABGAM%253D%3AS%3AANO1ljL9TFU&store=apps", "items": [{"title": "OsmAnd+ \u2014 Maps & GPS Offline", "link": "https://play.google.com/store/apps/details?id=net.osmand.plus", "product_id": "net.osmand.plus", "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=net.osmand.plus&store=apps", "description": "Navigation on hikes is no longer a problem. Download the map, put notes and go!", "rating": 4.6, "extansion": {"name": "OsmAnd", "link": "https://play.google.com/store/apps/dev?id=8483587772816822023"}, "price": "$24.99", "extracted_price": 24.99, "thumbnail": "https://play-lh.googleusercontent.com/EPumIptY55dNr-8csIYWHVU95DryODkqj_QGPNzyAXamCP7A4ODlbsPy5cyfYjnKWbV8=s128-rw"}, {"title": "MAPS.ME: Offline maps GPS Nav", "link": "https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro", "product_id": "com.mapswithme.maps.pro", "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=com.mapswithme.maps.pro&store=apps", "description": "Worldwide offline navigation with maps and driving directions\ud83d\uddfa", "rating": 4.3, "extansion": {"name": "MAPS.ME (CYPRUS) LTD", "link": "https://play.google.com/store/apps/developer?id=MAPS.ME+%28CYPRUS%29+LTD"}, "thumbnail": "https://play-lh.googleusercontent.com/Ec9fzB4pWGEvKnJHXAyrikd38aEY0PPKmhZ9S2c-lmwRc70yCUUsfeuNqAZexuNtwRw=s128-rw"}, {"title": "Guru Maps - Offline Navigation", "link": "https://play.google.com/store/apps/details?id=com.bodunov.galileo", "product_id": "com.bodunov.galileo", "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=com.bodunov.galileo&store=apps", "description": "Detailed and easy to use offline maps with turn-by-turn voice-guided navigation", "rating": 4.0, "extansion": {"name": "Evgen Bodunov", "link": "https://play.google.com/store/apps/developer?id=Evgen+Bodunov"}, "thumbnail": "https://play-lh.googleusercontent.com/aHjKbaJ_AT2fgG2zs5dtqgOZ-7bUNGDmphwg3N4Qdvn5E8z7HR5035cShRJocWJE1EI=s128-rw"}, {"title": "MapFactor Navigator - GPS Navigation Maps", "link": "https://play.google.com/store/apps/details?id=com.mapfactor.navigator", "product_id": "com.mapfactor.navigator", "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=com.mapfactor.navigator&store=apps", "description": "GPS Navigation - offline maps from OSM & TomTom. Right way everytime.", "rating": 4.4, "extansion": {"name": "MapFactor", "link": "https://play.google.com/store/apps/dev?id=6526807138754435823"}, "thumbnail": "https://play-lh.googleusercontent.com/WdwGZHXxxNaN_Ars_5xlCWp4wq_DpuxSKIV6qA2vK2iXFpiBo-pJZXCt91p_tD8J-IJU=s128-rw"}, {"title": "Wikiloc Outdoor Navigation GPS", "link": "https://play.google.com/store/apps/details?id=com.wikiloc.wikilocandroid", "product_id": "com.wikiloc.wikilocandroid", "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=com.wikiloc.wikilocandroid&store=apps", "description": "Track your outdoor activities and explore millions of trails worldwide", "rating": 4.3, "extansion": {"name": "Wikiloc Outdoor", "link": "https://play.google.com/store/apps/developer?id=Wikiloc+Outdoor"}, "thumbnail": "https://play-lh.googleusercontent.com/uAL8cfVSubXM-QTv5F0_8D-yJaA09bXlGwUrRXVxOeEqfWl8xAUfWhJSjQlXU9SOIPU=s128-rw"}]}], "serpapi_pagination": {"next": "https://serpapi.com/search.json?all_reviews=true&engine=google_play_product&gl=us&hl=en&next_page_token=CmQKYgpgMCwxMDAxMDAwLjQ3NTMxMjAyNDQsNjQ5OTk2MDI0Nzg0LCJodHRwOi8vbWFya2V0LmFuZHJvaWQuY29tL2RldGFpbHM_aWQ9djI6bmV0Lm9zbWFuZDoxIiwxLGZhbHNl&product_id=net.osmand&store=apps", "next_page_token": "CmQKYgpgMCwxMDAxMDAwLjQ3NTMxMjAyNDQsNjQ5OTk2MDI0Nzg0LCJodHRwOi8vbWFya2V0LmFuZHJvaWQuY29tL2RldGFpbHM_aWQ9djI6bmV0Lm9zbWFuZDoxIiwxLGZhbHNl"}}
+{
+  "search_metadata": {
+    "id": "6231bb155119a6f3abe3dccd",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/5e372fa8fb571136/6231bb155119a6f3abe3dccd.json",
+    "created_at": "2022-03-16 10:25:25 UTC",
+    "processed_at": "2022-03-16 10:25:25 UTC",
+    "google_play_product_url": "https://play.google.com/store/apps/details?id=net.osmand&hl=en&gl=us",
+    "raw_html_file": "https://serpapi.com/searches/5e372fa8fb571136/6231bb155119a6f3abe3dccd.html",
+    "total_time_taken": 0.8
+  },
+  "search_parameters": {
+    "engine": "google_play_product",
+    "product_id": "net.osmand",
+    "hl": "en",
+    "gl": "us",
+    "store": "apps"
+  },
+  "product_info": {
+    "title": "OsmAnd \u2014 Maps & GPS Offline",
+    "authors": [
+      {
+        "name": "OsmAnd",
+        "link": "https://play.google.com/store/apps/dev?id=8483587772816822023"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Travel & Local",
+        "link": "https://play.google.com/store/apps/category/TRAVEL_AND_LOCAL",
+        "category_id": "TRAVEL_AND_LOCAL",
+        "serpapi_link": "https://serpapi.com/search.json?apps_category=TRAVEL_AND_LOCAL&engine=google_play&gl=us&hl=en&store=apps"
+      }
+    ],
+    "content_rating": {
+      "text": "Everyone",
+      "thumbnail": "https://play-lh.googleusercontent.com/IciOnDFecb5Xt50Q2jlcNC0LPI7LEGxNojroo-s3AozcyS-vDCwtq4fn7u3wZmRna8OewG9PBrWC-i7i=w56-h14-rw"
+    },
+    "rating": 4.5,
+    "reviews": 129539,
+    "extansions": [
+      "Offers in-app purchases"
+    ],
+    "thumbnail": "https://play-lh.googleusercontent.com/FSmpbc9ugImmneiJac8ffLvHrkgZ19xZJCjJVgrlTMpFRUn1XB0dkpP90iVePSvC9vc=s180-rw",
+    "offers": [
+      {
+        "text": "Install",
+        "link": "https://play.google.com/store/apps/details?id=net.osmand&rdid=net.osmand&feature=md&offerId"
+      }
+    ],
+    "description": "OsmAnd is an offline world map application based on OpenStreetMap (OSM), which allows you to navigate taking into account the preferred roads and vehicle dimensions. Plan routes based on inclines and record GPX tracks without an internet connection.OsmAnd is an open source app. We do not collect user data and you decide what data the app will have access to.Main features:Map view\u2022 Choice of places to be displayed on the map: attractions, food, health and more;\u2022 Search for places by address, name, coordinates, or category;\u2022 Map styles for the convenience of different activities: touring view, nautical map, winter and ski, topographic, desert, off-road, and others;\u2022 Shading relief and plug-in contour lines;\u2022 Ability to overlay different sources of maps on top of each other;GPS Navigation\u2022 Plotting a route to a place without an Internet connection;\u2022 Customizable navigation profiles for different vehicles: cars, motorcycles, bicycles, 4x4, pedestrians, boats, public transport, and more;\u2022 Change the constructed route, taking into account the exclusion of certain roads or road surfaces;\u2022 Customizable information widgets about the route: distance, speed, remaining travel time, distance to turn, and more;Route Planning and Recording\u2022 Plotting a route point by point using one or multiple navigation profiles;\u2022 Route recording using GPX tracks;\u2022 Manage GPX tracks: displaying your own or imported GPX tracks on the map, navigating through them;\u2022 Visual data about the route - descents/ascents, distances;\u2022 Ability to share GPX track in OpenStreetMap;Creation of points with different functionality\u2022 Favourites;\u2022 Markers;\u2022 Audio/video notes;OpenStreetMap\u2022 Making edits to OSM;\u2022 Updating maps with a frequency of up to one hour;Additional features\u2022 Android Auto support;\u2022 Compass and radius ruler;\u2022 Mapillary interface;\u2022 Night theme;\u2022 Wikipedia;\u2022 Large community of users around the world, documentation, and support;Paid features:Maps+ (in-app or subscription)\u2022 Unlimited map downloads;\u2022 Topo data (Contour lines and Terrain);\u2022 Nautical depths;\u2022 Offline Wikipedia;\u2022 Offline Wikivoyage - Travel guides;OsmAnd Pro (subscription)\u2022 All Maps+ features;\u2022 OsmAnd Cloud (backup and restore);\u2022 Pro features;\u2022 Hourly map updates.Read moreCollapse"
+  },
+  "media": {
+    "video": {
+      "thumbnail": "https://play-lh.googleusercontent.com/cKZ7AUr4p9Rim4ZbnW5KEnAPcuockaCEP-eTP9N2I4mqbmdNMXNjxvg_yD9a3y5kIw=w720-h310-rw",
+      "link": "https://www.youtube.com/embed/vCZBggmFkDA?ps=play&vq=large&rel=0&autohide=1&showinfo=0"
+    },
+    "images": [
+      "https://play-lh.googleusercontent.com/Ic03sd7gETSbmJpLxzbaJ4pJW5f6xNrlSkflPUUEcY1rSX8zCLCReCe_PeksP0qytQ=w720-h310-rw",
+      "https://play-lh.googleusercontent.com/NsXE3f7WK4fNJ7zs22CiYm7aNt0T3Coxmfy7E8qP1ZTYO3Exgjm8e1FG5g3NdxxO6nE=w720-h310-rw",
+      "https://play-lh.googleusercontent.com/0xBhvntU4MTwvLiYhxRzmor8zntgspyEI9XwGa7wzEv5XNZZwK2cwuMuNYXHfYQXz2E=w720-h310-rw",
+      "https://play-lh.googleusercontent.com/NZqAWkPEbzeOZ-LsIGa9wTucwvF8leisOenCnFluexZILmhiD-G6RYwIRgiiJE2xrg=w720-h310-rw",
+      "https://play-lh.googleusercontent.com/U7plB4eiAX1W0AHHKFb4PVSmECHvzVossWVHD9VQ2v51BEfMUId-x61gf4KUuj8ylQ=w720-h310-rw",
+      "https://play-lh.googleusercontent.com/AGoxRX5vjKmPgZ_zUmoy5k1pNeS-QMVIv2REthPZCxmmUG1ppOM6F1yzX7QsuTZ7xw=w720-h310-rw",
+      "https://play-lh.googleusercontent.com/9crIb0CjFeLZt1R7Bvu4fhz3PrbFklEf5NTHSxXJqVMk3wSFgYPBKOK6HPysYF-r_a4j=w720-h310-rw",
+      "https://play-lh.googleusercontent.com/E8LMpA9MScxrQ2ROXRqv8aO3T4EtshK2oSL23r7vM2PM_uyxl9SYUoHC0DYl-EYOJBY=w720-h310-rw"
+    ]
+  },
+  "reviews": [
+    {
+      "title": "badmexican333",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJzurBCyiJSxEa5pFWoqPUMDHT0BuXGWyLFgRwyi=mo",
+      "rating": 4.0,
+      "snippet": "The best offline map/gps you can hope to get; only complaint is that by default the gps 'warns' you of pedestrian and railroad crossings every time you come upon one(still can't find the setting to turn off railroad crossing warnings). Other than that, does a good job finding routes. Let's you backup/restore config though, so it's not a recurring annoyance changing that.",
+      "likes": 1,
+      "date": "March 11, 2022"
+    },
+    {
+      "title": "Josh Troche",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhF3P-3Kno6dYjmphKwGANNvXg5dTIV7XEYBohElyk",
+      "rating": 5.0,
+      "snippet": "it's great to have the maps downloaded on my phone so that way when I'm in areas that don't have cell phone signal, I still have GPS. On top of that I ride a dual sport motorcycle and this lets me prioritize gravel roads. So far I've Loved this app",
+      "likes": 8,
+      "date": "February 25, 2022"
+    },
+    {
+      "title": "Daniel",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiyW5cOgbWu6VsYV8pN_ZBoLHAWg01GJW7nZKxW-w",
+      "rating": 5.0,
+      "snippet": "Excellent app for free. Highly considering getting the pro version. Has offline map and doesn't take a lot of space. Includes hiking trails too. Navigation when offline is when it really beats Google maps.",
+      "likes": 2,
+      "date": "March 12, 2022"
+    },
+    {
+      "title": "Ell, Ess. Jaevaric",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiPPkrIpo4cjNmZ81Xk4StA6nqqN59UUZZ8W4jy8g",
+      "rating": 1.0,
+      "snippet": "Unusable for navigation when compared to Google maps. You cannot even enter addresses in the common method used in US (street #, street name, city, state, zip). Many times there is no address available at all, you'll sometimes only get a list of cross streets along the road you need... you basically need to know where you're going, mark it on osmand then navigate to the mark. Guess app useful if you think in gps cords or can find what u need to mark on a map",
+      "likes": 14,
+      "date": "January 30, 2022",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. If you have any other questions please contact us at support@osmand.net",
+        "date": "January 31, 2022"
+      }
+    },
+    {
+      "title": "Joe S",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiKKWKidw0mhBjZ-kdTnFiFUjkK6wYFsxmIRkqzRA",
+      "rating": 3.0,
+      "snippet": "Great app for navigating offline for day or multi-day hikes on existing trails, but complex menu system and ineffective search makes it less useful for typical road navigation relative to other options like Google Maps or Waze. I use Garmin BaseCamp to create routes using the free OSM Topo maps, then export to .gpx and load to OsmAnd for offline navigation on trails in the Cascades. With 7 free map downloads, they provide plenty of time to experience the features before upgrading to premium to access more detailed topo content.",
+      "likes": 14,
+      "date": "January 22, 2022",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello! Thank you for the feedback. If you have any questions please contact us at support@osmand.net",
+        "date": "January 24, 2022"
+      }
+    },
+    {
+      "title": "Kevin Bates",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GglPBbbhvLWWEeMpmqDZiX6JiUNnSr69eVaLF1-sdo",
+      "rating": 3.0,
+      "snippet": "Map is open source and has a ton of options, but it doesn't seem to recognize literally any addresses, making it useless for residential driving. Most businesses I've tried to go to also aren't in the map. Seems fine for hiking or interstate driving, but unfortunately not viable for me to replace google maps.",
+      "likes": 5,
+      "date": "January 26, 2022",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Kevin! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. If you have any other questions please contact us at support@osmand.net",
+        "date": "January 27, 2022"
+      }
+    },
+    {
+      "title": "Tony D.",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gh1vBgIJCNtcgcZxctHzNtfQdN1JyNvmKc4VZ0aow",
+      "rating": 2.0,
+      "snippet": "I really want to like this, but the absolute inability to bring up any building number address renders it useless for driving.",
+      "likes": 1,
+      "date": "February 02, 2022",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello! Thank you for the feedback. Could you please provide the coordinates of the place? We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers.",
+        "date": "February 02, 2022"
+      }
+    },
+    {
+      "title": "BlueDream",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJz6cJe2vMzqWo9Ga4d1zCw5rMSeoSBk1Xr3SmYF=mo",
+      "rating": 3.0,
+      "snippet": "The app is not easy to use or simple like Google maps unfortunately. They make it very difficult to use \ud83d\ude15",
+      "likes": 1,
+      "date": "February 08, 2022",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hi, we are always looking to improve the experience for our users, and really appreciate the feedback. If there is anything specific we can look into, please contact us at support@osmand.net.",
+        "date": "February 08, 2022"
+      }
+    },
+    {
+      "title": "Nick",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJwiZYwc5by4psVqTaZLZgFcRkTh3XrCIuzk3hz4=mo",
+      "rating": 2.0,
+      "snippet": "I want to like this app but I could not even find my own address or the address of a friend when I searched for it as a preliminary test. It basically requires you to know the closest intersecting road: but what if you dont know it ? When I looked up my address a little further (took me a while to even find it in the list of possible results), it was listed in the wrong county. So nice features and it does have a lot of potential, if only the maps would be accurate.. that's a no go for me.",
+      "likes": 33,
+      "date": "October 26, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Nick! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. You can contact us at support@osmand.net and provide a search phrase example so we can test it.",
+        "date": "October 27, 2021"
+      }
+    },
+    {
+      "title": "Joseph Dora",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJwNl0jjCjz5LF-hN7YKXUA_H79AMnBCPJ0i5jET=mo",
+      "rating": 5.0,
+      "snippet": "Good app, but would be great if you could draw radius circles, squares and irregular areas and denote these areas on the map. The ability to import address's and have them Geo located on the map would also make it an outstanding mapping program. I still use Delorme, but the last version was 2015. If offered these features but was ended by Delorme as they moved and rebranded their technology to market it as a GIS Visualization tool putting it out of reach price wise for non-commercial users.",
+      "likes": 5,
+      "date": "December 04, 2021"
+    },
+    {
+      "title": "Samuel Santaella",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gj74o0aMqctJ6OUxfXcyJUC0atS0aHoRO271WeqEjM",
+      "rating": 3.0,
+      "snippet": "I'm disappointed in OsmAnd coming from iPhone 6S. I have a newer Android with much better CPU, newer GPU, way more RAM, yet panning around the map is not smooth. I can't even rotate the map precisely like I can on iPhone. On both versions this isn't my app of choice for looking up addresses. However, offline maps and offline navigation do work excellently especially for cycling, so this is still a keeper for me. Also fun to explore around in sometimes.",
+      "likes": 10,
+      "date": "December 07, 2021"
+    },
+    {
+      "title": "Doug Grinbergs",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJykZNo5FeWBE2o6E9CtLSJIOlMURIt2Qesc1ZQ=mo",
+      "rating": 5.0,
+      "snippet": "Crazy amount of features, functionality based on crowdsourced OpenStreetMap, great for contributing map info. Mapillary (crowdsourced street-level images) integration very cool, much appreciated. Very impressed by thorough, professional version release notes (which even giant developers don't bother to do anymore).",
+      "likes": 22,
+      "date": "December 11, 2021"
+    },
+    {
+      "title": "Miakoda",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Ghh78RJ4ydB4_WnLHtJJ3NhWhNuD7EsPGmQdtQVZhg",
+      "rating": 1.0,
+      "snippet": "It's a Navigation app that can't cope with a street address. No matter what address I give it, it gives me all sorts of results based on words in the address. No amount of tapping makes it accept an address and navigate there.",
+      "likes": 10,
+      "date": "October 20, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Miakoda! Thank you for the feedback. Could you please provide search address examples so we could test them? You can contact us at support@osmand.net.",
+        "date": "October 21, 2021"
+      }
+    },
+    {
+      "title": "Barry Cheeney",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJxm1CcnZi18e-ErRGtAvlMB6_9AZiT-EB39Dbsu=mo",
+      "rating": 2.0,
+      "snippet": "The map works fine if your just trying to find a city, or *maybe* a prominent land mark. But this map is utterly useless for finding anywhere on an actual street. TL:DR Passable for road trips; Useless at all other times.",
+      "likes": 7,
+      "date": "November 25, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Barry! Thank you for the feedback. Please contact us at support@osmand.net and provide address examples so we can test them.",
+        "date": "November 29, 2021"
+      }
+    },
+    {
+      "title": "Brandon Fehrenkamp",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gi01WmEqJuli3tgnEKzDpTBBrn2R-kM7ZO0872F",
+      "rating": 2.0,
+      "snippet": "Cool for offline maps, awful for searching for addresses. I can search for my home street verbatim and it won't find it. I have to search using some of the words of my home street to find it. That's bad.",
+      "likes": 8,
+      "date": "October 02, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Brandon! Thank you for the feedback. Could you please send to support@osmand.net search address example so we can test it?",
+        "date": "October 04, 2021"
+      }
+    },
+    {
+      "title": "Thalia Brisson",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhMf8nG4vF3xU9-Id_MOn8_0ea5LTJWlkYJgwOmpsw",
+      "rating": 5.0,
+      "snippet": "Better than google maps - osm data is best and high contrast vector maps rock - I love the way they do map downloads by region and navigation is good (gets better with better osm data). If the nav messes up you can fix the map yourself :)",
+      "likes": 20,
+      "date": "September 26, 2021"
+    },
+    {
+      "title": "Kevin D.",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJyAa_MjsL8CVpGNZUiuvkczYzdC9wJRkhIfm20=mo",
+      "rating": 3.0,
+      "snippet": "Eep. A OnePlus OS update nuked all my offline maps. However they were never deleted so now OSMAnd uses ~5 GB of storage instead of 2.5. Can't delete manually so.... uninstall? My annual subscription is looking less valuable with these types of bugs.",
+      "likes": 2,
+      "date": "October 11, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Kevin! Thank you for the feedback. You can try to select \"Data storage folder\" in OsmAnd settings, the app may lose access or path to it after the update. If it doesn't help, please contact us at support@osmand.net",
+        "date": "October 11, 2021"
+      }
+    },
+    {
+      "title": "Fred Hoette",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gg4cmX6DFGJkkpXL48fG91WjqwpBKWPeUXI-ASf",
+      "rating": 5.0,
+      "snippet": "I have used this app for inland European waterway navigation. It is brilliant. Accurate, lots of details about the waterway as well as location of marinas and other landside amenities. Highly recommended.",
+      "likes": 6,
+      "date": "October 05, 2021"
+    },
+    {
+      "title": "Garth Freeman",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJyshdZjuIjg1Gf3pC5mtziHbXLpbSlYPbHlCFWo=mo",
+      "rating": 1.0,
+      "snippet": "Useless. I honestly don't understand what Good a navigation app could be that can't be used to navigate to an address. Seriously, what is the point?",
+      "likes": 2,
+      "date": "November 21, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello! Thank you for the feedback. You can contact us at support@osmand.net and provide a search address example, so we can test it.",
+        "date": "November 22, 2021"
+      }
+    },
+    {
+      "title": "Jason Gray",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiP5MxnA9r8FjEPam1O5D7dNAm6ip1YF27jLg34",
+      "rating": 1.0,
+      "snippet": "Basic function of searching addresses doesn't work. Tried my home address offline and online, nada.",
+      "likes": 4,
+      "date": "October 21, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Jason! Thank you for the feedback. Could you please provide a search phrase example? You can contact us at support@osmand.net.",
+        "date": "October 22, 2021"
+      }
+    },
+    {
+      "title": "kurt guseman",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GjfCbQfWnHYTNzAQMnj2feaI4uBCr0gv5Lbsr9c",
+      "rating": 1.0,
+      "snippet": "No good maps. does not orient maps to direction your moving, very poor street identifing unusable to navigate",
+      "likes": 2,
+      "date": "October 16, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Kurt! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. You can change \"Map orientation\" in Menu \u2013 Settings \u2013 Profile \u2013 General settings. If you have any questions contact us at support@osmand.net",
+        "date": "October 18, 2021"
+      }
+    },
+    {
+      "title": "Bruce Ruderman",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJyehWLxzILmYs1soHvcnoVs8_w08G4mp2mxaU5D=mo",
+      "rating": 2.0,
+      "snippet": "Uninstaller this app right away because it can't find its way around town. Another disappointing so called offline map app. Unable to find a working no data offline map app for an android phone. I haven't tried one of those bs pay monthly subscription GPS apps because I am not that stupid.",
+      "likes": 0,
+      "date": "December 25, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Bruce! Thank you for the feedback. You can contact us at support@osmand.net with coordinates of the start and destination so we can test the route. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers.",
+        "date": "December 28, 2021"
+      }
+    },
+    {
+      "title": "Bradley Farless",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhhBjtSeM9HRxlHotKRppwTcJzDDw4mgV_gkTTFTTo",
+      "rating": 1.0,
+      "snippet": "My previous review was deleted so I'm putting it back. This app is presented as a navigation tool. However, it doesn't work with Android Auto, so it doesn't fill that function effectively for how most people use navigation tools. I believe that Android Auto integration should be basic functionality for a navigation app. This doesn't have it, so for me, it's 1 Star because it's not useful.",
+      "likes": 1,
+      "date": "September 17, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Bradley! Thank you for the feedback. We are working on adding Android Auto support, we will try to introduce it in the next app update. If you have any other questions please contact us at support@osmand.net",
+        "date": "September 17, 2021"
+      }
+    },
+    {
+      "title": "Anthony Lima",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GjPDcMNE-q_KoCa1TF138j-jnPxAyOBnYv65TPoRwA",
+      "rating": 3.0,
+      "snippet": "Mostly great, the search function just takes some getting used to. Has all of the necessary features of google maps but way less lag. The main downside is the navigation which just isn't reliable. Can't tell ya how many times it's told me to turn right off the highway when there was no exit",
+      "likes": 0,
+      "date": "November 25, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Anthony! Thank you for the feedback. Please contact us at support@osmand.net and provide coordinates of the start and destination points of the route so we could test it.",
+        "date": "November 29, 2021"
+      }
+    },
+    {
+      "title": "suhridkhan",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Ghq4-s-Owj1ZqonJVm-C3JcNppzKJTQUqstQb6Bv8k",
+      "rating": 5.0,
+      "snippet": "Amazing map platform. Those of you who are fussing about not finding your address, please just understand that this is based on open source data. Rather than complaining and being part of the problem, you can choose to be part of the solution, and contribute to the openstreetmap database.",
+      "likes": 2,
+      "date": "November 20, 2021"
+    },
+    {
+      "title": "joseph vaughn",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GjVnNwL3nntg3O1JfYoii2GG7IMtL4T1BwFHfI8IA",
+      "rating": 1.0,
+      "snippet": "Wow I don't know how this was ever supposed to work it can't find addresses just gives generic towns. You can go in and tell it where something is and give it an address that way but it's definitely not ready to use if it's community built.",
+      "likes": 0,
+      "date": "November 07, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Joseph! Thank you for the feedback. Please send to support@osmand.net search address example, so we can test it.",
+        "date": "November 08, 2021"
+      }
+    },
+    {
+      "title": "Person of Interest",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJzj7y-d6q61UE16r2MQuzylMfQOlFf_6dl-Ux2L=mo",
+      "rating": 5.0,
+      "snippet": "Good grief to all of you complaining about not being able to find specific addresses the solution is simple. Use coordinates instead and any gps software using openstreet maps works perfectly. Plenty of apps will give you the coordinates of addresses. Enter that instead of an address and its gold.",
+      "likes": 1,
+      "date": "November 26, 2021"
+    },
+    {
+      "title": "Deebo",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GgqwutLSJlScXXiKNVe1yw4Udv9EMc08Ubux8GyhQ",
+      "rating": 4.0,
+      "snippet": "Could use a bit of an update, the app takes a lot of battery especially when on the road. The UI could maybe use a rework too. But overall, the mapping works well for me though, shows almost all of the street names, and the location tracking is pretty good! This definitely is a great alternative to Google Maps though, especially for offline use.",
+      "likes": 10,
+      "date": "August 26, 2019"
+    },
+    {
+      "title": "D N",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJwkIjEfEr1v3fc0HpA6mj3TZ5PFuhGPbdzzw9k=mo",
+      "rating": 1.0,
+      "snippet": "Worst map ever. Put in an address to test it and it tried to route me the opposite direction! As i continued to drive in the right direction (east instead of west like it was trying to take me) it kept trying to route me to the next exit to turn around. If i didn't actually know this address I would have gone the wrong way into heavier traffic conditions. Can't trust it.",
+      "likes": 1,
+      "date": "November 24, 2019",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello! Please send us the coordinates of the starting and ending points of your route, so we could check that, at support@osmand.net.",
+        "date": "December 04, 2019"
+      }
+    },
+    {
+      "title": "Duncan Boyd",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gjhb15UYvM4l2i7EAqH0uQv7ylDPLCDBYG-uRFEedI",
+      "rating": 1.0,
+      "snippet": "You are limited to download 7 maps (in my case states) which I didn't initially realise but is fine. While learning how to use the app I downloaded 7 states that I had taken a motorcycle trip through and it worked great. Then I deleted the states thinking that I could just replace those with new states. I was wrong. Not only no new states but, I can't get the old ones either! The app is now completely useless unless you want to look at a blank outline of the continent! Total waste of time!",
+      "likes": 14,
+      "date": "January 27, 2020",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Duncan! Thank you for the feedback. The free version of OsmAnd has a limit to download/update 7 maps, not for slots. If you need more maps or every week updates, you can get OsmAnd Unlimited in-app purchase that unlocks download limit, or get OsmAnd Live subscription to unlock all paid features + every hour map updates.",
+        "date": "January 27, 2020"
+      }
+    },
+    {
+      "title": "Adam Brown",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gh-w09yw1bh1o6GXPfqDN05t92xz6kpoYQUmvjrMrA",
+      "rating": 2.0,
+      "snippet": "It's great when you're driving on a road and OSMAnd doesn't realiize it exists. Maps that are years out of date? Awesome.",
+      "likes": 1,
+      "date": "September 25, 2021",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, Adam! Thank you for the feedback. We use OpenStreetMap as a source of data. This map is built by a community of volunteers, availability of data in some areas depends on the number of volunteers. If you have any other questions please contact us at support@osmand.net",
+        "date": "September 27, 2021"
+      }
+    },
+    {
+      "title": "Kyle Hooper",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GiF_V64r0bwNpp0KKXmEslD2FePeyCygIv83Q5gWg",
+      "rating": 3.0,
+      "snippet": "\"Looks\" good, but...the regional maps are not as up to date as you may think. I am ranked 5th in the USA in terms of map editing for Open Street Maps and they are currently over 2 months old for my region in the USA. Also, I am disappointed I am only afforded a certain amount of map downloads before I need to purchase my own work I gave away for free. Kind of dirty salesmanship if you ask me.",
+      "likes": 34,
+      "date": "October 07, 2018"
+    },
+    {
+      "title": "Salvatore Mangiafico",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GgObBr5Xz7HnZGk99Vp2aL2BCAxHUWhEivEWRWPpA",
+      "rating": 5.0,
+      "snippet": "The existence of Open Street Map is wonderful, and this app is a very useful interface for OSM. I've been using it for some years. I like to use it to track hikes for milage and route, and to see what points of interest (POI) are around, and I've used to navigate while driving when I didn't have mobile signal (e.g. in central PA and in Canada).... There are many options, which can be difficult to navigate at first, but you'll come to appreciate all the options.",
+      "likes": 22,
+      "date": "March 15, 2020"
+    },
+    {
+      "title": "David Swanson",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhCIgpja01WUc3G4WxvtmajsDOakvtVbaz-L7Xw",
+      "rating": 1.0,
+      "snippet": "I really wanna give this app 5 stars. I purchased a year subscription. I used it for a year. 1. Biggest reason, the algorithm that chooses directions is awful. I come out of my house to got to the hospital to get my allergy shot. It says turn right which the hospitalbis 8 miles away. I never turn right. I turn left it recalculates and now it's 2.4 miles. In a city omg it takes the worst ways to get somewhere. 2. The gui. It's so messy. And I love all the options but there so confusing...........",
+      "likes": 1,
+      "date": "October 02, 2020",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello, David! Thank you for the feedback. Part of the issues with directions is because of issues with data. Could you please provide coordinates of the start and destination points of the route so we could test it? You can contact us at support@osmand.net.",
+        "date": "October 13, 2020"
+      }
+    },
+    {
+      "title": "Gene Whitehead",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhSj5RzW6oyOKAl9FjJRFRF_3NQFps5akEyqCqUoQ",
+      "rating": 3.0,
+      "snippet": "It's quite a navigation app, I'll give it that much but I can't give it more than 3 stars unfortunately, no matter how much I'd like to. First, the search sucks. Don't count on being able to look up an address even if the place you're going to has been there for a few hundred years. Second, the TTS sounds horrible. I understand that's Google TTS but given that's the best option for this app, it stinks. Third, this makes my phone blazing hot. Finally, it doesn't work on Android Auto without yet another add on and a rooted device. I really want to like this app but the more I use it the more I go back to the one map I'm trying to get away from!",
+      "likes": 0,
+      "date": "September 10, 2019",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello. Please send us the address at support@osmand.net, so we could check if this is an OsmAnd issue or this data is simply absent in OpenStreetMap resource. Also, kindly note, that you can use different TTS engine compatible with your language and choose between TTS and recorded voice guidance files.",
+        "date": "September 12, 2019"
+      }
+    },
+    {
+      "title": "Jessie Fairchild",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gh6cokyYseVMi2z5BD2V-eCECQ--oXCx6bM6CSeKw",
+      "rating": 5.0,
+      "snippet": "An amazing navigational app and location search tool! I love that I can see opening and closing times for places that have them updated on OSM. The interface is a bit daunting and takes a bit of practice/research to understand, but the online documentation for OSMAnd is wonderful as well, and after that learning curve it's an incredibly powerful tool. I use it any time I travel, and also to double check any updates I make to OSM!",
+      "likes": 7,
+      "date": "February 27, 2020"
+    },
+    {
+      "title": "Mike Maresca",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GhtEQVm1kxVlYO5Z6e7gLSeypS2sdG5JvAhV1Y1cw",
+      "rating": 1.0,
+      "snippet": "I was looking to turn my old phone into an offline GPS nav system. This app looked like it would be great for that. I download the map for my state and tried to type in a few addresses to which I wanted to navigate. It could only seem to find landmarks or named buildings, but not a simple street address. A navigation system that doesn't have that feature is worthless to me. I removed the app.",
+      "likes": 3,
+      "date": "May 13, 2019",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello. Please, make sure to update the World overview map. Also, you can try to start the search with a city. To do this, please go to OsmAnd menu - Search - Address - Select the city first. After typing the city, choose it from the list and continue to type the street name and number. If the issue persists please contact us at support@osmand.net.",
+        "date": "May 14, 2019"
+      }
+    },
+    {
+      "title": "Dan Magico",
+      "avatar": "https://play-lh.googleusercontent.com/a/AATXAJwcCwgCGgG6ts2Roe9nRIew-_pLov6XKEWrPibc=mo",
+      "rating": 5.0,
+      "snippet": "Hands down the best navigation app, *unless* you want traffic data (Google Maps is still king for that). Offline navigation, hiking & biking, skiing & snowboarding, recording tracks ... and very, very configurable. For those complaining that the UI is too complex, well, there are a ton of features squeezed in this app, so, yes. I'd rather have a complex, but fully featured app rather than a easy, but dumbed-down app, as seems to be fashionable these days.",
+      "likes": 0,
+      "date": "April 07, 2021"
+    },
+    {
+      "title": "Chad Sagers",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14GgFYi0cqqQ_29kcdEIiGvKPYHo7FMEQCDOAJz4yhg",
+      "rating": 1.0,
+      "snippet": "I read that with this app you could customize what info you wanted shown on your map. I even read it would show road surface quality which would be awesome out here in the country. There was no setup tutorial and it wasn't user friendly at all. Maybe the review I read was way wrong, but even still I couldn't get directions, it said my starting point was too far from the nearest road. I live litterally 100 feet from a county road. The map only showed state highways and interstates. Useless.",
+      "likes": 0,
+      "date": "January 31, 2020",
+      "response": {
+        "title": "OsmAnd",
+        "snippet": "Hello Chad. To display the road surface, please open the Configure map menu - Details and select the required information. If you need any help, just open the Help section in the app menu, our website: https://osmand.net/features or contact us at support@osmand.net.",
+        "date": "February 03, 2020"
+      }
+    },
+    {
+      "title": "Dustin McNeal",
+      "avatar": "https://play-lh.googleusercontent.com/a-/AOh14Gje6-7qnx-l7ECtZs06-E9SX3M2jxMEtp0J3a3uGQ",
+      "rating": 1.0,
+      "snippet": "I would say it's nice for manually browsing the map but I could get a paper map for the same thing. The app won't let you type in exact addresses only roads. Using the search function by city and road requires you to click on the button many times before it works. I think this app is a cool idea but is no better than a paper map at this point.",
+      "likes": 1,
+      "date": "February 20, 2020"
+    }
+  ],
+  "more_by": {
+    "title": "More by OsmAnd",
+    "link": "https://play.google.com/store/apps/dev?id=8483587772816822023",
+    "thumbnail": "https://play-lh.googleusercontent.com/SO9llLbXK2HkQ8xHwysdRInbOx4AfFRyBC5PAXKUszCh8o-oQ8LWgW_vEWbTAcwUmW0=w500-h280-rw",
+    "items": [
+      {
+        "title": "Nautical Charts \u2014 OsmAnd",
+        "link": "https://play.google.com/store/apps/details?id=net.osmand.nauticalPlugin",
+        "product_id": "net.osmand.nauticalPlugin",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=net.osmand.nauticalPlugin&store=apps",
+        "description": "OsmAnd Nautical Charts is a plugin that provides Nautical Maps",
+        "rating": 3.7,
+        "extansion": {
+          "name": "OsmAnd",
+          "link": "https://play.google.com/store/apps/dev?id=8483587772816822023"
+        },
+        "thumbnail": "https://play-lh.googleusercontent.com/-TO8t53lo_7rgEKsl8ewQSBStKLAA2d44JRkgLTTRInGyZ_ljFtjTwyRHshtcAZ9wkY=s128-rw"
+      },
+      {
+        "title": "OsmAnd Online GPS Tracker",
+        "link": "https://play.google.com/store/apps/details?id=net.osmand.telegram",
+        "product_id": "net.osmand.telegram",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=net.osmand.telegram&store=apps",
+        "description": "Share your location with contacts and groups from Telegram.",
+        "rating": 3.7,
+        "extansion": {
+          "name": "OsmAnd",
+          "link": "https://play.google.com/store/apps/dev?id=8483587772816822023"
+        },
+        "thumbnail": "https://play-lh.googleusercontent.com/jizATOxi4ir4MNQCWB9lxyQAsSI6KTdcTmpZ8ODU0HGt5jOeXqDP-MBYg4Ctl3mHaTQ=s128-rw"
+      }
+    ]
+  },
+  "what_s_new": {
+    "snippet": "\u2022 Added initial support for Android Auto\u2022 User interface update for UTM coordinate search\u2022 GPS Filter for GPX Tracks\u2022 Elevation Widget (Pro)\u2022 Favorites: added ability to view recently used icons\u2022 Route planning: will use the selected profile after launch\u2022 Fixed Mapillary layer, the plugin is now disabled by default\u2022 Added screen to manage all history in the app\u2022 Map orientation is not reset after restarting the app\u2022 Improved SRTM height marker rendering\u2022 Fixed Arabic map captions"
+  },
+  "additional_information": {
+    "updated": [
+      {
+        "snippet": "December 15, 2021"
+      }
+    ],
+    "size": [
+      {
+        "snippet": "119M"
+      }
+    ],
+    "installs": [
+      {
+        "snippet": "5,000,000+"
+      }
+    ],
+    "current_version": [
+      {
+        "snippet": "4.1.11"
+      }
+    ],
+    "requires_android": [
+      {
+        "snippet": "6.0 and up"
+      }
+    ],
+    "content_rating": [
+      {
+        "snippet": "EveryoneLearn more"
+      },
+      {
+        "snippet": "Learn more",
+        "link": "https://support.google.com/googleplay?p=appgame_ratings"
+      }
+    ],
+    "interactive_elements": [
+      {
+        "snippet": "In-App Purchases"
+      }
+    ],
+    "in_app_products": [
+      {
+        "snippet": "$1.63 - $29.99 per item"
+      }
+    ],
+    "permissions": [
+      {
+        "snippet": "View details"
+      }
+    ],
+    "report": [
+      {
+        "snippet": "Flag as inappropriate",
+        "link": "https://support.google.com/googleplay/?p=report_content"
+      }
+    ],
+    "offered_by": [
+      {
+        "snippet": "OsmAnd"
+      }
+    ],
+    "developer": [
+      {
+        "snippet": "Visit website",
+        "link": "https://osmand.net"
+      },
+      {
+        "snippet": "support@osmand.net",
+        "link": "https://play.google.commailto:support@osmand.net"
+      },
+      {
+        "snippet": "Privacy Policy",
+        "link": "http://osmand.net/help-online?id=privacy-policy"
+      },
+      {
+        "snippet": "Visit websitesupport@osmand.netPrivacy PolicyNetherlands, Amstelveen Logger 41, 1186 RM"
+      }
+    ]
+  },
+  "similar_results": [
+    {
+      "title": "Similar",
+      "see_more_link": "https://play.google.com/store/apps/collection/cluster?clp=ogoYCBEqAggIMhAKCm5ldC5vc21hbmQQARgD:S:ANO1ljJkYrA&gsr=ChuiChgIESoCCAgyEAoKbmV0Lm9zbWFuZBABGAM%3D:S:ANO1ljL9TFU",
+      "see_more_token": "ChuiChgIESoCCAgyEAoKbmV0Lm9zbWFuZBABGAM%3D:S:ANO1ljL9TFU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_play&gl=us&hl=en&see_more_token=ChuiChgIESoCCAgyEAoKbmV0Lm9zbWFuZBABGAM%253D%3AS%3AANO1ljL9TFU&store=apps",
+      "items": [
+        {
+          "title": "OsmAnd+ \u2014 Maps & GPS Offline",
+          "link": "https://play.google.com/store/apps/details?id=net.osmand.plus",
+          "product_id": "net.osmand.plus",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=net.osmand.plus&store=apps",
+          "description": "Navigation on hikes is no longer a problem. Download the map, put notes and go!",
+          "rating": 4.6,
+          "extansion": {
+            "name": "OsmAnd",
+            "link": "https://play.google.com/store/apps/dev?id=8483587772816822023"
+          },
+          "price": "$24.99",
+          "extracted_price": 24.99,
+          "thumbnail": "https://play-lh.googleusercontent.com/EPumIptY55dNr-8csIYWHVU95DryODkqj_QGPNzyAXamCP7A4ODlbsPy5cyfYjnKWbV8=s128-rw"
+        },
+        {
+          "title": "MAPS.ME: Offline maps GPS Nav",
+          "link": "https://play.google.com/store/apps/details?id=com.mapswithme.maps.pro",
+          "product_id": "com.mapswithme.maps.pro",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=com.mapswithme.maps.pro&store=apps",
+          "description": "Worldwide offline navigation with maps and driving directions\ud83d\uddfa",
+          "rating": 4.3,
+          "extansion": {
+            "name": "MAPS.ME (CYPRUS) LTD",
+            "link": "https://play.google.com/store/apps/developer?id=MAPS.ME+%28CYPRUS%29+LTD"
+          },
+          "thumbnail": "https://play-lh.googleusercontent.com/Ec9fzB4pWGEvKnJHXAyrikd38aEY0PPKmhZ9S2c-lmwRc70yCUUsfeuNqAZexuNtwRw=s128-rw"
+        },
+        {
+          "title": "Guru Maps - Offline Navigation",
+          "link": "https://play.google.com/store/apps/details?id=com.bodunov.galileo",
+          "product_id": "com.bodunov.galileo",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=com.bodunov.galileo&store=apps",
+          "description": "Detailed and easy to use offline maps with turn-by-turn voice-guided navigation",
+          "rating": 4.0,
+          "extansion": {
+            "name": "Evgen Bodunov",
+            "link": "https://play.google.com/store/apps/developer?id=Evgen+Bodunov"
+          },
+          "thumbnail": "https://play-lh.googleusercontent.com/aHjKbaJ_AT2fgG2zs5dtqgOZ-7bUNGDmphwg3N4Qdvn5E8z7HR5035cShRJocWJE1EI=s128-rw"
+        },
+        {
+          "title": "MapFactor Navigator - GPS Navigation Maps",
+          "link": "https://play.google.com/store/apps/details?id=com.mapfactor.navigator",
+          "product_id": "com.mapfactor.navigator",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=com.mapfactor.navigator&store=apps",
+          "description": "GPS Navigation - offline maps from OSM & TomTom. Right way everytime.",
+          "rating": 4.4,
+          "extansion": {
+            "name": "MapFactor",
+            "link": "https://play.google.com/store/apps/dev?id=6526807138754435823"
+          },
+          "thumbnail": "https://play-lh.googleusercontent.com/WdwGZHXxxNaN_Ars_5xlCWp4wq_DpuxSKIV6qA2vK2iXFpiBo-pJZXCt91p_tD8J-IJU=s128-rw"
+        },
+        {
+          "title": "Wikiloc Outdoor Navigation GPS",
+          "link": "https://play.google.com/store/apps/details?id=com.wikiloc.wikilocandroid",
+          "product_id": "com.wikiloc.wikilocandroid",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_play_product&gl=us&hl=en&product_id=com.wikiloc.wikilocandroid&store=apps",
+          "description": "Track your outdoor activities and explore millions of trails worldwide",
+          "rating": 4.3,
+          "extansion": {
+            "name": "Wikiloc Outdoor",
+            "link": "https://play.google.com/store/apps/developer?id=Wikiloc+Outdoor"
+          },
+          "thumbnail": "https://play-lh.googleusercontent.com/uAL8cfVSubXM-QTv5F0_8D-yJaA09bXlGwUrRXVxOeEqfWl8xAUfWhJSjQlXU9SOIPU=s128-rw"
+        }
+      ]
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?all_reviews=true&engine=google_play_product&gl=us&hl=en&next_page_token=CmQKYgpgMCwxMDAxMDAwLjQ3NTMxMjAyNDQsNjQ5OTk2MDI0Nzg0LCJodHRwOi8vbWFya2V0LmFuZHJvaWQuY29tL2RldGFpbHM_aWQ9djI6bmV0Lm9zbWFuZDoxIiwxLGZhbHNl&product_id=net.osmand&store=apps",
+    "next_page_token": "CmQKYgpgMCwxMDAxMDAwLjQ3NTMxMjAyNDQsNjQ5OTk2MDI0Nzg0LCJodHRwOi8vbWFya2V0LmFuZHJvaWQuY29tL2RldGFpbHM_aWQ9djI6bmV0Lm9zbWFuZDoxIiwxLGZhbHNl"
+  }
+}
