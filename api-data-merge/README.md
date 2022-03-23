@@ -1,6 +1,16 @@
 Libraries required:
-Google Play Scraper: pip install google-play-scraper
+Google Play Scraper:
 
-flatdict: pip install flatdict
+    pip install google-play-scraper
 
-GoogleSearch: pip install google-search-results
+flatdict:
+
+    pip install flatdict
+
+GoogleSearch:
+
+    pip install google-search-results
+
+For executing the script: 
+
+    python .\api-data-merge.py -a <package-name> -f <target-file.json> -k api -c <file with keys>
